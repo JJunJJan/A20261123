@@ -4,8 +4,9 @@ using namespace std;
 
 int main()
 {
-	std::cout << "Heollo World!" << std::endl;
-	std::cout << "¾È³çÇÏ¼¼¿ä!!!" << std::endl;
+	//std::cout << "Heollo World!" << std::endl;
+	cout << "Heollo World!" << endl;
+	cout << "¾È³çÇÏ¼¼¿ä!!!" <<endl;
 
 	return 0;
 
